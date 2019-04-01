@@ -7,32 +7,32 @@ NOTE: Due to PowerShell limitations the total amount of items returned will be a
 
 The script can also be modified to utilize the -RecordType switch to limit the records returned. Valid values for the switch are:
 
--AzureActiveDirectory
--AzureActiveDirectoryAccountLogon
--AzureActiveDirectoryStsLogon
--ComplianceDLPExchange
--ComplianceDLPSharePoint
--CRM
--DataCenterSecurityCmdlet
--Discovery
--ExchangeAdmin
--ExchangeAggregatedOperation
--ExchangeItem
--ExchangeItemGroup
--MicrosoftTeams
--MicrosoftTeamsAddOns
--MicrosoftTeamsSettingsOperation
--OneDrive
--PowerBIAudit
--SecurityComplianceAlerts
--SecurityComplianceCenterEOPCmdlet
--SecurityComplianceInsights
--SharePoint
--SharePointFileOperation
--SharePointSharingOperation
--SkypeForBusinessCmdlets
--SkypeForBusinessPSTNUsage
--SkypeForBusinessUsersBlocked
--Sway
--ThreatIntelligence
--Yammer
+- AzureActiveDirectory
+- AzureActiveDirectoryAccountLogon
+- AzureActiveDirectoryStsLogon
+- ComplianceDLPExchange
+- ComplianceDLPSharePoint
+- CRM
+- DataCenterSecurityCmdlet
+- Discovery
+- ExchangeAdmin
+- ExchangeAggregatedOperation
+- ExchangeItem
+- ExchangeItemGroup
+- MicrosoftTeams
+- MicrosoftTeamsAddOns
+- MicrosoftTeamsSettingsOperation
+- OneDrive
+- PowerBIAudit
+- SecurityComplianceAlerts
+- SecurityComplianceCenterEOPCmdlet
+- SecurityComplianceInsights
+- SharePoint
+- SharePointFileOperation
+- SharePointSharingOperation
+- SkypeForBusinessCmdlets
+- SkypeForBusinessPSTNUsage
+- SkypeForBusinessUsersBlocked
+- Sway
+- ThreatIntelligence
+- Yammer
